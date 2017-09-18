@@ -21,8 +21,8 @@
   
 7. Daily Scrum Meeting
   * A daily meeting thats lasts only 15 minutes that quickly covers these three questions.
-    *"What have I done since the last Scrum meeting?"
-    *"What will I do before the next Scrum meeting?"
-    *"What prevents me from performing my work as efficiently as possible
+    * "What have I done since the last Scrum meeting?"
+    * "What will I do before the next Scrum meeting?"
+    * "What prevents me from performing my work as efficiently as possible
     
 8.
