@@ -25,4 +25,12 @@
     * "What will I do before the next Scrum meeting?"
     * "What prevents me from performing my work as efficiently as possible
     
-8.
+8. Team Member
+  * A team member is anyone working on sprint tasks toward the goal.
+  
+9. Product Owner
+  * In a SCRUM, one person must take full authority and be manage the backlog to best suite the customers needs.
+  
+10. Impediments
+  * An impediment is something that gets in the way or prevents the SCRUM team from achieving their sprint goals, or prevents the team working as efficiently as possible.
+ 
